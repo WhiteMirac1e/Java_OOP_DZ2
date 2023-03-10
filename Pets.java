@@ -1,4 +1,4 @@
-package JAVA_OOP_DZ2;
+package Java_OOP_DZ2;
 
 import java.time.LocalDate;
 
